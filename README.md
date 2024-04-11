@@ -1,4 +1,4 @@
-# greenland_greenhouse_gases
+# greenland_greenhouse_emissions
 
 From [Statbank, Statistics Greenland](https://bank.stat.gl/pxweb/en/Greenland/), I created two .csv files: emission of greenhouse gasses in Greenland by sector and time (United Nations Framework Convention on Climate Change (UNFCCC)-approach), as well as average monthly air temperature by measuring, time, weather station and month.
 
